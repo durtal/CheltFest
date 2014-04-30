@@ -1,0 +1,503 @@
+"date.time"	"day"	"horse"	"searchedfor"
+2014-03-11 13:30:00	"1"	"Fantasy King"	TRUE
+2014-03-11 13:30:00	"1"	"Garde La Victoire"	TRUE
+2014-03-11 13:30:00	"1"	"Germany Calling"	TRUE
+2014-03-11 13:30:00	"1"	"Gilgamboa"	TRUE
+2014-03-11 13:30:00	"1"	"Irving"	TRUE
+2014-03-11 13:30:00	"1"	"Josses Hill"	TRUE
+2014-03-11 13:30:00	"1"	"Sgt Reckless"	TRUE
+2014-03-11 13:30:00	"1"	"Sky Khan"	TRUE
+2014-03-11 13:30:00	"1"	"Splash Of Ginge"	TRUE
+2014-03-11 13:30:00	"1"	"The Liquidator"	TRUE
+2014-03-11 13:30:00	"1"	"Three Kingdoms"	TRUE
+2014-03-11 13:30:00	"1"	"Un Ace"	TRUE
+2014-03-11 13:30:00	"1"	"Valseur Lido"	TRUE
+2014-03-11 13:30:00	"1"	"Vaniteux"	TRUE
+2014-03-11 13:30:00	"1"	"Vautour"	TRUE
+2014-03-11 13:30:00	"1"	"Western Boy"	TRUE
+2014-03-11 13:30:00	"1"	"Wicklow Brave"	TRUE
+2014-03-11 13:30:00	"1"	"Wilde Blue Yonder"	TRUE
+2014-03-11 14:05:00	"1"	"Brick Red"	TRUE
+2014-03-11 14:05:00	"1"	"Champagne Fever"	TRUE
+2014-03-11 14:05:00	"1"	"Dodging Bullets"	TRUE
+2014-03-11 14:05:00	"1"	"Grandouet"	TRUE
+2014-03-11 14:05:00	"1"	"Rock On Ruby"	TRUE
+2014-03-11 14:05:00	"1"	"Ted Veale"	TRUE
+2014-03-11 14:05:00	"1"	"Trifolium"	TRUE
+2014-03-11 14:05:00	"1"	"Valdez"	TRUE
+2014-03-11 14:05:00	"1"	"Western Warhorse"	TRUE
+2014-03-11 14:40:00	"1"	"Cantlow"	FALSE
+2014-03-11 14:40:00	"1"	"Vino Griego"	FALSE
+2014-03-11 14:40:00	"1"	"Pacha Du Polder"	FALSE
+2014-03-11 14:40:00	"1"	"Restless Harry"	FALSE
+2014-03-11 14:40:00	"1"	"Golden Chieftain"	FALSE
+2014-03-11 14:40:00	"1"	"Hadrian's Approach"	FALSE
+2014-03-11 14:40:00	"1"	"Holywell"	FALSE
+2014-03-11 14:40:00	"1"	"Vintage Star"	FALSE
+2014-03-11 14:40:00	"1"	"Ackertac"	FALSE
+2014-03-11 14:40:00	"1"	"Ma Filleule"	FALSE
+2014-03-11 14:40:00	"1"	"Green Flag"	FALSE
+2014-03-11 14:40:00	"1"	"Renard"	FALSE
+2014-03-11 14:40:00	"1"	"The Package"	FALSE
+2014-03-11 14:40:00	"1"	"Shakalakaboomboom"	FALSE
+2014-03-11 14:40:00	"1"	"Relax"	FALSE
+2014-03-11 14:40:00	"1"	"Time For Rupert"	FALSE
+2014-03-11 14:40:00	"1"	"Muldoon's Picnic"	FALSE
+2014-03-11 14:40:00	"1"	"Alfie Sherrin"	FALSE
+2014-03-11 14:40:00	"1"	"Fruity O'Rooney"	FALSE
+2014-03-11 14:40:00	"1"	"Wrong Turn"	FALSE
+2014-03-11 14:40:00	"1"	"Standing Ovation"	FALSE
+2014-03-11 14:40:00	"1"	"King Massini"	FALSE
+2014-03-11 14:40:00	"1"	"Tour Des Champs"	FALSE
+2014-03-11 14:40:00	"1"	"Solix"	FALSE
+2014-03-11 15:20:00	"1"	"Captain Cee Bee"	TRUE
+2014-03-11 15:20:00	"1"	"Grumeti"	TRUE
+2014-03-11 15:20:00	"1"	"Hurricane Fly"	TRUE
+2014-03-11 15:20:00	"1"	"Jezki"	TRUE
+2014-03-11 15:20:00	"1"	"Melodic Rendezvous"	TRUE
+2014-03-11 15:20:00	"1"	"My Tent Or Yours"	TRUE
+2014-03-11 15:20:00	"1"	"Our Conor"	TRUE
+2014-03-11 15:20:00	"1"	"Ptit Zig"	TRUE
+2014-03-11 15:20:00	"1"	"The New One"	TRUE
+2014-03-11 16:00:00	"1"	"Cailin Annamh"	FALSE
+2014-03-11 16:00:00	"1"	"Cockney Sparrow"	FALSE
+2014-03-11 16:00:00	"1"	"Down Ace"	FALSE
+2014-03-11 16:00:00	"1"	"Doyly Carte"	FALSE
+2014-03-11 16:00:00	"1"	"Glens Melody"	FALSE
+2014-03-11 16:00:00	"1"	"Highland Retreat"	FALSE
+2014-03-11 16:00:00	"1"	"Jennies Jewel"	FALSE
+2014-03-11 16:00:00	"1"	"L'Unique"	FALSE
+2014-03-11 16:00:00	"1"	"Quevega"	FALSE
+2014-03-11 16:00:00	"1"	"Sirene D'Ainay"	FALSE
+2014-03-11 16:00:00	"1"	"Uddy"	FALSE
+2014-03-11 16:00:00	"1"	"Epee Celeste"	FALSE
+2014-03-11 16:00:00	"1"	"Hidden Identity"	FALSE
+2014-03-11 16:00:00	"1"	"Little King Robin"	FALSE
+2014-03-11 16:00:00	"1"	"Pass The Time"	FALSE
+2014-03-11 16:00:00	"1"	"Top Totti"	FALSE
+2014-03-11 16:40:00	"1"	"According To Trev"	FALSE
+2014-03-11 16:40:00	"1"	"Adrenalin Flight"	FALSE
+2014-03-11 16:40:00	"1"	"American Spin"	FALSE
+2014-03-11 16:40:00	"1"	"Beeves"	FALSE
+2014-03-11 16:40:00	"1"	"Firm Order"	FALSE
+2014-03-11 16:40:00	"1"	"Foxrock"	FALSE
+2014-03-11 16:40:00	"1"	"Herdsman"	FALSE
+2014-03-11 16:40:00	"1"	"Living Next Door"	FALSE
+2014-03-11 16:40:00	"1"	"Merlin's Wish"	FALSE
+2014-03-11 16:40:00	"1"	"Midnight Prayer"	FALSE
+2014-03-11 16:40:00	"1"	"Milborough"	FALSE
+2014-03-11 16:40:00	"1"	"Rogue Angel"	FALSE
+2014-03-11 16:40:00	"1"	"Shotgun Paddy"	FALSE
+2014-03-11 16:40:00	"1"	"Shutthefrontdoor"	FALSE
+2014-03-11 16:40:00	"1"	"Suntiep"	FALSE
+2014-03-11 17:15:00	"1"	"Ericht"	FALSE
+2014-03-11 17:15:00	"1"	"Up To Something"	FALSE
+2014-03-11 17:15:00	"1"	"Grandads Horse"	FALSE
+2014-03-11 17:15:00	"1"	"Baby Mix"	FALSE
+2014-03-11 17:15:00	"1"	"Art Of Logistics"	FALSE
+2014-03-11 17:15:00	"1"	"Manyriverstocross"	FALSE
+2014-03-11 17:15:00	"1"	"Persian Snow"	FALSE
+2014-03-11 17:15:00	"1"	"Pendra"	FALSE
+2014-03-11 17:15:00	"1"	"Present View"	FALSE
+2014-03-11 17:15:00	"1"	"Attaglance"	FALSE
+2014-03-11 17:15:00	"1"	"Dursey Sound"	FALSE
+2014-03-11 17:15:00	"1"	"Close House"	FALSE
+2014-03-11 17:15:00	"1"	"Ahyaknowyerself"	FALSE
+2014-03-11 17:15:00	"1"	"Festive Affair"	FALSE
+2014-03-11 17:15:00	"1"	"Buywise"	FALSE
+2014-03-11 17:15:00	"1"	"Tony Star"	FALSE
+2014-03-11 17:15:00	"1"	"Buthelezi"	FALSE
+2014-03-11 17:15:00	"1"	"Ohio Gold"	FALSE
+2014-03-11 17:15:00	"1"	"King Vuvuzela"	FALSE
+2014-03-11 17:15:00	"1"	"Gardefort"	FALSE
+2014-03-12 13:30:00	"2"	"Ballyalton"	TRUE
+2014-03-12 13:30:00	"2"	"Cocktails At Dawn"	TRUE
+2014-03-12 13:30:00	"2"	"Cole Harden"	TRUE
+2014-03-12 13:30:00	"2"	"Creepy"	TRUE
+2014-03-12 13:30:00	"2"	"Cup Final"	TRUE
+2014-03-12 13:30:00	"2"	"Faugheen"	TRUE
+2014-03-12 13:30:00	"2"	"Fennell Bay"	TRUE
+2014-03-12 13:30:00	"2"	"Killala Quay"	TRUE
+2014-03-12 13:30:00	"2"	"Knock House"	TRUE
+2014-03-12 13:30:00	"2"	"Lieutenant Colonel"	TRUE
+2014-03-12 13:30:00	"2"	"Midnight Thunder"	TRUE
+2014-03-12 13:30:00	"2"	"Rathvinden"	TRUE
+2014-03-12 13:30:00	"2"	"Red Sherlock"	TRUE
+2014-03-12 13:30:00	"2"	"Royal Boy"	TRUE
+2014-03-12 13:30:00	"2"	"Shanahan's Turn"	TRUE
+2014-03-12 13:30:00	"2"	"Twelve Roses"	TRUE
+2014-03-12 14:05:00	"2"	"Annacotty"	TRUE
+2014-03-12 14:05:00	"2"	"Ballycasey"	TRUE
+2014-03-12 14:05:00	"2"	"Black Thunder"	TRUE
+2014-03-12 14:05:00	"2"	"Carlingford Lough"	TRUE
+2014-03-12 14:05:00	"2"	"Corrin Wood"	TRUE
+2014-03-12 14:05:00	"2"	"Don Cossack"	TRUE
+2014-03-12 14:05:00	"2"	"Gevrey Chambertin"	TRUE
+2014-03-12 14:05:00	"2"	"Just A Par"	TRUE
+2014-03-12 14:05:00	"2"	"Le Bec"	TRUE
+2014-03-12 14:05:00	"2"	"Many Clouds"	TRUE
+2014-03-12 14:05:00	"2"	"Morning Assembly"	TRUE
+2014-03-12 14:05:00	"2"	"O'Faolains Boy"	TRUE
+2014-03-12 14:05:00	"2"	"Samingarry"	TRUE
+2014-03-12 14:05:00	"2"	"Sam Winner"	TRUE
+2014-03-12 14:05:00	"2"	"Smad Place"	TRUE
+2014-03-12 14:40:00	"2"	"Dunguib"	FALSE
+2014-03-12 14:40:00	"2"	"Whisper"	FALSE
+2014-03-12 14:40:00	"2"	"Sametegal"	FALSE
+2014-03-12 14:40:00	"2"	"Meister Eckhart"	FALSE
+2014-03-12 14:40:00	"2"	"Oscars Well"	FALSE
+2014-03-12 14:40:00	"2"	"Cotton Mill"	FALSE
+2014-03-12 14:40:00	"2"	"Magnifique Etoile"	FALSE
+2014-03-12 14:40:00	"2"	"Far West"	FALSE
+2014-03-12 14:40:00	"2"	"Get Me Out Of Here"	FALSE
+2014-03-12 14:40:00	"2"	"Clerk's Choice"	FALSE
+2014-03-12 14:40:00	"2"	"Sadler's Risk"	FALSE
+2014-03-12 14:40:00	"2"	"Edgardo Sol"	FALSE
+2014-03-12 14:40:00	"2"	"Smashing"	FALSE
+2014-03-12 14:40:00	"2"	"Timesremembered"	FALSE
+2014-03-12 14:40:00	"2"	"Waaheb"	FALSE
+2014-03-12 14:40:00	"2"	"Dell' Arca"	FALSE
+2014-03-12 14:40:00	"2"	"Ifandbutwhynot"	FALSE
+2014-03-12 14:40:00	"2"	"Party Rock"	FALSE
+2014-03-12 14:40:00	"2"	"Yesyoucan"	FALSE
+2014-03-12 14:40:00	"2"	"Clondaw Kaempfer"	FALSE
+2014-03-12 14:40:00	"2"	"Vendor"	FALSE
+2014-03-12 14:40:00	"2"	"Bayan"	FALSE
+2014-03-12 14:40:00	"2"	"Kaylif Aramis"	FALSE
+2014-03-12 14:40:00	"2"	"Noble Prince"	FALSE
+2014-03-12 14:40:00	"2"	"Indevan"	FALSE
+2014-03-12 14:40:00	"2"	"Calculated Risk"	FALSE
+2014-03-12 14:40:00	"2"	"Son Of Flicka"	FALSE
+2014-03-12 14:40:00	"2"	"Foxcub"	FALSE
+2014-03-12 15:20:00	"2"	"Arvika Ligeonniere"	TRUE
+2014-03-12 15:20:00	"2"	"Baily Green"	TRUE
+2014-03-12 15:20:00	"2"	"Captain Conan"	TRUE
+2014-03-12 15:20:00	"2"	"Hinterland"	TRUE
+2014-03-12 15:20:00	"2"	"Kid Cassidy"	TRUE
+2014-03-12 15:20:00	"2"	"Module"	TRUE
+2014-03-12 15:20:00	"2"	"Sire De Grugy"	TRUE
+2014-03-12 15:20:00	"2"	"Sizing Europe"	TRUE
+2014-03-12 15:20:00	"2"	"Somersby"	TRUE
+2014-03-12 15:20:00	"2"	"Special Tiara"	TRUE
+2014-03-12 15:20:00	"2"	"Wishfull Thinking"	TRUE
+2014-03-12 16:00:00	"2"	"Balthazar King"	FALSE
+2014-03-12 16:00:00	"2"	"Uncle Junior"	FALSE
+2014-03-12 16:00:00	"2"	"Big Shu"	FALSE
+2014-03-12 16:00:00	"2"	"Quantitativeeasing"	FALSE
+2014-03-12 16:00:00	"2"	"Love Rory"	FALSE
+2014-03-12 16:00:00	"2"	"Hey Big Spender"	FALSE
+2014-03-12 16:00:00	"2"	"Sire Collonges"	FALSE
+2014-03-12 16:00:00	"2"	"Sizing Australia"	FALSE
+2014-03-12 16:00:00	"2"	"Bishopsfurze"	FALSE
+2014-03-12 16:00:00	"2"	"Duke Of Lucca"	FALSE
+2014-03-12 16:00:00	"2"	"Quiscover Fontaine"	FALSE
+2014-03-12 16:00:00	"2"	"Diamond Harry"	FALSE
+2014-03-12 16:00:00	"2"	"Any Currency"	FALSE
+2014-03-12 16:00:00	"2"	"A Stray Shot"	FALSE
+2014-03-12 16:00:00	"2"	"Sin Palo"	FALSE
+2014-03-12 16:00:00	"2"	"Star Neuville"	FALSE
+2014-03-12 16:40:00	"2"	"Noble Inn"	FALSE
+2014-03-12 16:40:00	"2"	"Gerdago"	FALSE
+2014-03-12 16:40:00	"2"	"Le Fin Bois"	FALSE
+2014-03-12 16:40:00	"2"	"Ivan Grozny"	FALSE
+2014-03-12 16:40:00	"2"	"Arzembouy Premier"	FALSE
+2014-03-12 16:40:00	"2"	"Solar Impulse"	FALSE
+2014-03-12 16:40:00	"2"	"Ballyglasheen"	FALSE
+2014-03-12 16:40:00	"2"	"Dawalan"	FALSE
+2014-03-12 16:40:00	"2"	"Baradari"	FALSE
+2014-03-12 16:40:00	"2"	"Clarcam"	FALSE
+2014-03-12 16:40:00	"2"	"Cadoudoff"	FALSE
+2014-03-12 16:40:00	"2"	"Goodwood Mirage"	FALSE
+2014-03-12 16:40:00	"2"	"Katgary"	FALSE
+2014-03-12 16:40:00	"2"	"Hawk High"	FALSE
+2014-03-12 16:40:00	"2"	"Astre De La Cour"	FALSE
+2014-03-12 16:40:00	"2"	"Violet Dancer"	FALSE
+2014-03-12 16:40:00	"2"	"Handiwork"	FALSE
+2014-03-12 16:40:00	"2"	"Azza"	FALSE
+2014-03-12 16:40:00	"2"	"Vandross"	FALSE
+2014-03-12 16:40:00	"2"	"Keltus"	FALSE
+2014-03-12 16:40:00	"2"	"Certification"	FALSE
+2014-03-12 16:40:00	"2"	"Raven's Tower"	FALSE
+2014-03-12 16:40:00	"2"	"Orgilgo Bay"	FALSE
+2014-03-12 16:40:00	"2"	"Akdam"	FALSE
+2014-03-12 17:15:00	"2"	"Assam Black"	FALSE
+2014-03-12 17:15:00	"2"	"Black Hercules"	FALSE
+2014-03-12 17:15:00	"2"	"Definitly Red"	FALSE
+2014-03-12 17:15:00	"2"	"El Namoose"	FALSE
+2014-03-12 17:15:00	"2"	"Golantilla"	FALSE
+2014-03-12 17:15:00	"2"	"Joshua Lane"	FALSE
+2014-03-12 17:15:00	"2"	"Killultagh Vic"	FALSE
+2014-03-12 17:15:00	"2"	"Mountain Of Mourne"	FALSE
+2014-03-12 17:15:00	"2"	"Neck Or Nothing"	FALSE
+2014-03-12 17:15:00	"2"	"Oscarteea"	FALSE
+2014-03-12 17:15:00	"2"	"Our Kaempfer"	FALSE
+2014-03-12 17:15:00	"2"	"Seven Nation Army"	FALSE
+2014-03-12 17:15:00	"2"	"Shaneshill"	FALSE
+2014-03-12 17:15:00	"2"	"Silver Concorde"	FALSE
+2014-03-12 17:15:00	"2"	"Stack The Deck"	FALSE
+2014-03-12 17:15:00	"2"	"Third Act"	FALSE
+2014-03-12 17:15:00	"2"	"Value At Risk"	FALSE
+2014-03-12 17:15:00	"2"	"Vigil"	FALSE
+2014-03-12 17:15:00	"2"	"Zeroeshadesofgrey"	FALSE
+2014-03-12 17:15:00	"2"	"Izzini"	FALSE
+2014-03-12 17:15:00	"2"	"Coyaba"	FALSE
+2014-03-12 17:15:00	"2"	"Modus"	FALSE
+2014-03-12 17:15:00	"2"	"Royal Vacation"	FALSE
+2014-03-13 13:30:00	"3"	"Captain Ocana"	TRUE
+2014-03-13 13:30:00	"3"	"Double Ross"	TRUE
+2014-03-13 13:30:00	"3"	"Felix Yonger"	TRUE
+2014-03-13 13:30:00	"3"	"Mozoltov"	TRUE
+2014-03-13 13:30:00	"3"	"Off The Ground"	TRUE
+2014-03-13 13:30:00	"3"	"Oscar Whisky"	TRUE
+2014-03-13 13:30:00	"3"	"Sizing Gold"	TRUE
+2014-03-13 13:30:00	"3"	"Taquin Du Seuil"	TRUE
+2014-03-13 13:30:00	"3"	"Uxizandre"	TRUE
+2014-03-13 13:30:00	"3"	"Wonderful Charm"	TRUE
+2014-03-13 13:30:00	"3"	"Djakadam"	TRUE
+2014-03-13 13:30:00	"3"	"Vukovar"	TRUE
+2014-03-13 14:05:00	"3"	"Fingal Bay"	FALSE
+2014-03-13 14:05:00	"3"	"Southfield Theatre"	FALSE
+2014-03-13 14:05:00	"3"	"Quartz De Thaix"	FALSE
+2014-03-13 14:05:00	"3"	"Trustan Times"	FALSE
+2014-03-13 14:05:00	"3"	"Jetson"	FALSE
+2014-03-13 14:05:00	"3"	"Seefood"	FALSE
+2014-03-13 14:05:00	"3"	"Mickie"	FALSE
+2014-03-13 14:05:00	"3"	"Grand Vision"	FALSE
+2014-03-13 14:05:00	"3"	"On The Bridge"	FALSE
+2014-03-13 14:05:00	"3"	"Pineau De Re"	FALSE
+2014-03-13 14:05:00	"3"	"If In Doubt"	FALSE
+2014-03-13 14:05:00	"3"	"Vics Canvas"	FALSE
+2014-03-13 14:05:00	"3"	"Uncle Jimmy"	FALSE
+2014-03-13 14:05:00	"3"	"Top Wood"	FALSE
+2014-03-13 14:05:00	"3"	"Mister Dillon"	FALSE
+2014-03-13 14:05:00	"3"	"Lie Forrit"	FALSE
+2014-03-13 14:05:00	"3"	"Pateese"	FALSE
+2014-03-13 14:05:00	"3"	"First Fandango"	FALSE
+2014-03-13 14:05:00	"3"	"Cross Kennon"	FALSE
+2014-03-13 14:05:00	"3"	"Utopie Des Bordes"	FALSE
+2014-03-13 14:05:00	"3"	"Crowning Jewel"	FALSE
+2014-03-13 14:05:00	"3"	"Broadway Buffalo"	FALSE
+2014-03-13 14:05:00	"3"	"Josies Orders"	FALSE
+2014-03-13 14:05:00	"3"	"So Fine"	FALSE
+2014-03-13 14:40:00	"3"	"Al Ferof"	TRUE
+2014-03-13 14:40:00	"3"	"Benefficient"	TRUE
+2014-03-13 14:40:00	"3"	"Boston Bob"	TRUE
+2014-03-13 14:40:00	"3"	"Cantlow"	TRUE
+2014-03-13 14:40:00	"3"	"Dynaste"	TRUE
+2014-03-13 14:40:00	"3"	"Hidden Cyclone"	TRUE
+2014-03-13 14:40:00	"3"	"Hunt Ball"	TRUE
+2014-03-13 14:40:00	"3"	"Kauto Stone"	TRUE
+2014-03-13 14:40:00	"3"	"Medermit"	TRUE
+2014-03-13 14:40:00	"3"	"Menorah"	TRUE
+2014-03-13 14:40:00	"3"	"Rajdhani Express"	TRUE
+2014-03-13 14:40:00	"3"	"Rathlin"	TRUE
+2014-03-13 15:20:00	"3"	"At Fishers Cross"	TRUE
+2014-03-13 15:20:00	"3"	"Big Buck's"	TRUE
+2014-03-13 15:20:00	"3"	"Celestial Halo"	TRUE
+2014-03-13 15:20:00	"3"	"Mala Beach"	TRUE
+2014-03-13 15:20:00	"3"	"Medinas"	TRUE
+2014-03-13 15:20:00	"3"	"More Of That"	TRUE
+2014-03-13 15:20:00	"3"	"Reve De Sivola"	TRUE
+2014-03-13 15:20:00	"3"	"Rule The World"	TRUE
+2014-03-13 15:20:00	"3"	"Salubrious"	TRUE
+2014-03-13 15:20:00	"3"	"Zarkandar"	TRUE
+2014-03-13 15:20:00	"3"	"Annie Power"	TRUE
+2014-03-13 15:20:00	"3"	"Quevega"	TRUE
+2014-03-13 16:00:00	"3"	"Champion Court"	FALSE
+2014-03-13 16:00:00	"3"	"Johns Spirit"	FALSE
+2014-03-13 16:00:00	"3"	"Colour Squadron"	FALSE
+2014-03-13 16:00:00	"3"	"Tap Night"	FALSE
+2014-03-13 16:00:00	"3"	"Third Intention"	FALSE
+2014-03-13 16:00:00	"3"	"Ballynagour"	FALSE
+2014-03-13 16:00:00	"3"	"Tatenen"	FALSE
+2014-03-13 16:00:00	"3"	"Bless The Wings"	FALSE
+2014-03-13 16:00:00	"3"	"Carrickboy"	FALSE
+2014-03-13 16:00:00	"3"	"Bennys Mist"	FALSE
+2014-03-13 16:00:00	"3"	"Sraid Padraig"	FALSE
+2014-03-13 16:00:00	"3"	"King Edmund"	FALSE
+2014-03-13 16:00:00	"3"	"Wetak"	FALSE
+2014-03-13 16:00:00	"3"	"Nadiya De La Vega"	FALSE
+2014-03-13 16:00:00	"3"	"Firth Of The Clyde"	FALSE
+2014-03-13 16:00:00	"3"	"Shangani"	FALSE
+2014-03-13 16:00:00	"3"	"Mr Cracker"	FALSE
+2014-03-13 16:00:00	"3"	"Giorgio Quercus"	FALSE
+2014-03-13 16:00:00	"3"	"Act Of Kalanisi"	FALSE
+2014-03-13 16:00:00	"3"	"Sew On Target"	FALSE
+2014-03-13 16:00:00	"3"	"Gallox Bridge"	FALSE
+2014-03-13 16:00:00	"3"	"Tartak"	FALSE
+2014-03-13 16:00:00	"3"	"Highway Code"	FALSE
+2014-03-13 16:00:00	"3"	"Christopher Wren"	FALSE
+2014-03-13 16:40:00	"3"	"Roberto Goldback"	FALSE
+2014-03-13 16:40:00	"3"	"Tranquil Sea"	FALSE
+2014-03-13 16:40:00	"3"	"Twirling Magnet"	FALSE
+2014-03-13 16:40:00	"3"	"Our Father"	FALSE
+2014-03-13 16:40:00	"3"	"Buddy Bolero"	FALSE
+2014-03-13 16:40:00	"3"	"Same Difference"	FALSE
+2014-03-13 16:40:00	"3"	"Indian Castle"	FALSE
+2014-03-13 16:40:00	"3"	"Cause Of Causes"	FALSE
+2014-03-13 16:40:00	"3"	"Lost Glory"	FALSE
+2014-03-13 16:40:00	"3"	"Swing Bill"	FALSE
+2014-03-13 16:40:00	"3"	"Spring Heeled"	FALSE
+2014-03-13 16:40:00	"3"	"Dursey Sound"	FALSE
+2014-03-13 16:40:00	"3"	"Balnaslow"	FALSE
+2014-03-13 16:40:00	"3"	"Saint Are"	FALSE
+2014-03-13 16:40:00	"3"	"Mumbles Head"	FALSE
+2014-03-13 16:40:00	"3"	"Fine Parchment"	FALSE
+2014-03-13 16:40:00	"3"	"Pickamus"	FALSE
+2014-03-13 16:40:00	"3"	"There's No Panic"	FALSE
+2014-03-13 16:40:00	"3"	"Night Alliance"	FALSE
+2014-03-13 16:40:00	"3"	"Tabhachtach"	FALSE
+2014-03-13 16:40:00	"3"	"Gas Line Boy"	FALSE
+2014-03-13 16:40:00	"3"	"Quinz"	FALSE
+2014-03-13 16:40:00	"3"	"Hunting Party"	FALSE
+2014-03-13 16:40:00	"3"	"Problema Tic"	FALSE
+2014-03-14 13:30:00	"4"	"Abbyssial"	TRUE
+2014-03-14 13:30:00	"4"	"Achtung"	TRUE
+2014-03-14 13:30:00	"4"	"Amoruccio"	TRUE
+2014-03-14 13:30:00	"4"	"Ballyglasheen"	TRUE
+2014-03-14 13:30:00	"4"	"Broughton"	TRUE
+2014-03-14 13:30:00	"4"	"Calipto"	TRUE
+2014-03-14 13:30:00	"4"	"Cherry Tiger"	TRUE
+2014-03-14 13:30:00	"4"	"Guitar Pete"	TRUE
+2014-03-14 13:30:00	"4"	"Kentucky Hyden"	TRUE
+2014-03-14 13:30:00	"4"	"Lindenhurst"	TRUE
+2014-03-14 13:30:00	"4"	"Pearl Castle"	TRUE
+2014-03-14 13:30:00	"4"	"Plinth"	TRUE
+2014-03-14 13:30:00	"4"	"Royal Irish Hussar"	TRUE
+2014-03-14 13:30:00	"4"	"Rutherglen"	TRUE
+2014-03-14 13:30:00	"4"	"Tiger Roll"	TRUE
+2014-03-14 13:30:00	"4"	"Adriana Des Mottes"	TRUE
+2014-03-14 14:05:00	"4"	"Diakali"	FALSE
+2014-03-14 14:05:00	"4"	"Flaxen Flare"	FALSE
+2014-03-14 14:05:00	"4"	"Cinders And Ashes"	FALSE
+2014-03-14 14:05:00	"4"	"Runswick Royal"	FALSE
+2014-03-14 14:05:00	"4"	"Upazo"	FALSE
+2014-03-14 14:05:00	"4"	"Never Enough Time"	FALSE
+2014-03-14 14:05:00	"4"	"Arctic Fire"	FALSE
+2014-03-14 14:05:00	"4"	"Montbazon"	FALSE
+2014-03-14 14:05:00	"4"	"Lyvius"	FALSE
+2014-03-14 14:05:00	"4"	"Minella Foru"	FALSE
+2014-03-14 14:05:00	"4"	"Lac Fontana"	FALSE
+2014-03-14 14:05:00	"4"	"Deep Trouble"	FALSE
+2014-03-14 14:05:00	"4"	"Rainbow Peak"	FALSE
+2014-03-14 14:05:00	"4"	"Thomas Edison"	FALSE
+2014-03-14 14:05:00	"4"	"Cash And Go"	FALSE
+2014-03-14 14:05:00	"4"	"Strongpoint"	FALSE
+2014-03-14 14:05:00	"4"	"Dunraven Storm"	FALSE
+2014-03-14 14:05:00	"4"	"Cheltenian"	FALSE
+2014-03-14 14:05:00	"4"	"Makari"	FALSE
+2014-03-14 14:05:00	"4"	"Master Of The Game"	FALSE
+2014-03-14 14:05:00	"4"	"Barizan"	FALSE
+2014-03-14 14:05:00	"4"	"Jumps Road"	FALSE
+2014-03-14 14:05:00	"4"	"Morning Royalty"	FALSE
+2014-03-14 14:05:00	"4"	"Tzora"	FALSE
+2014-03-14 14:05:00	"4"	"Citizenship"	FALSE
+2014-03-14 14:05:00	"4"	"Lough Kent"	FALSE
+2014-03-14 14:05:00	"4"	"Anay Turge"	FALSE
+2014-03-14 14:05:00	"4"	"Alaivan"	FALSE
+2014-03-14 14:40:00	"4"	"Apache Jack"	TRUE
+2014-03-14 14:40:00	"4"	"Blakemount"	TRUE
+2014-03-14 14:40:00	"4"	"Briar Hill"	TRUE
+2014-03-14 14:40:00	"4"	"Captain Cutter"	TRUE
+2014-03-14 14:40:00	"4"	"Champagne West"	TRUE
+2014-03-14 14:40:00	"4"	"Cogry"	TRUE
+2014-03-14 14:40:00	"4"	"Deputy Dan"	TRUE
+2014-03-14 14:40:00	"4"	"Kings Palace"	TRUE
+2014-03-14 14:40:00	"4"	"Madness Light"	TRUE
+2014-03-14 14:40:00	"4"	"Masters Hill"	TRUE
+2014-03-14 14:40:00	"4"	"Mosspark"	TRUE
+2014-03-14 14:40:00	"4"	"Port Melon"	TRUE
+2014-03-14 14:40:00	"4"	"Prince Siegfried"	TRUE
+2014-03-14 14:40:00	"4"	"Regal Diamond"	TRUE
+2014-03-14 14:40:00	"4"	"Rydon Pynes"	TRUE
+2014-03-14 14:40:00	"4"	"Saint Roque"	TRUE
+2014-03-14 14:40:00	"4"	"Sausalito Sunrise"	TRUE
+2014-03-14 14:40:00	"4"	"The Job Is Right"	TRUE
+2014-03-14 14:40:00	"4"	"Urban Hymn"	TRUE
+2014-03-14 14:40:00	"4"	"Very Wood"	TRUE
+2014-03-14 15:20:00	"4"	"Bobs Worth"	TRUE
+2014-03-14 15:20:00	"4"	"Cloudy Too"	TRUE
+2014-03-14 15:20:00	"4"	"First Lieutenant"	TRUE
+2014-03-14 15:20:00	"4"	"Houblon Des Obeaux"	TRUE
+2014-03-14 15:20:00	"4"	"Katenko"	TRUE
+2014-03-14 15:20:00	"4"	"Knockara Beau"	TRUE
+2014-03-14 15:20:00	"4"	"Last Instalment"	TRUE
+2014-03-14 15:20:00	"4"	"Lord Windermere"	TRUE
+2014-03-14 15:20:00	"4"	"Lyreen Legend"	TRUE
+2014-03-14 15:20:00	"4"	"On His Own"	TRUE
+2014-03-14 15:20:00	"4"	"Silviniaco Conti"	TRUE
+2014-03-14 15:20:00	"4"	"Teaforthree"	TRUE
+2014-03-14 15:20:00	"4"	"The Giant Bolster"	TRUE
+2014-03-14 15:20:00	"4"	"Triolo D'Alene"	TRUE
+2014-03-14 16:00:00	"4"	"Berties Dream"	FALSE
+2014-03-14 16:00:00	"4"	"Boxing Along"	FALSE
+2014-03-14 16:00:00	"4"	"Carsonstown Boy"	FALSE
+2014-03-14 16:00:00	"4"	"Certain Flight"	FALSE
+2014-03-14 16:00:00	"4"	"Croan Rock"	FALSE
+2014-03-14 16:00:00	"4"	"Divine Intavention"	FALSE
+2014-03-14 16:00:00	"4"	"Doctor Kingsley"	FALSE
+2014-03-14 16:00:00	"4"	"Double Bank"	FALSE
+2014-03-14 16:00:00	"4"	"Foundry Square"	FALSE
+2014-03-14 16:00:00	"4"	"Gale Force Oscar"	FALSE
+2014-03-14 16:00:00	"4"	"Ganbei"	FALSE
+2014-03-14 16:00:00	"4"	"Harbour Court"	FALSE
+2014-03-14 16:00:00	"4"	"Made In Time"	FALSE
+2014-03-14 16:00:00	"4"	"Minella Stars"	FALSE
+2014-03-14 16:00:00	"4"	"Ockey De Neulliac"	FALSE
+2014-03-14 16:00:00	"4"	"On The Fringe"	FALSE
+2014-03-14 16:00:00	"4"	"Oscar Delta"	FALSE
+2014-03-14 16:00:00	"4"	"Pearlysteps"	FALSE
+2014-03-14 16:00:00	"4"	"Ravethebrave"	FALSE
+2014-03-14 16:00:00	"4"	"Shy John"	FALSE
+2014-03-14 16:00:00	"4"	"Tammys Hill"	FALSE
+2014-03-14 16:00:00	"4"	"That's Rhythm"	FALSE
+2014-03-14 16:00:00	"4"	"The Hollinwell"	FALSE
+2014-03-14 16:00:00	"4"	"Lucette Annie"	FALSE
+2014-03-14 16:40:00	"4"	"Virak"	FALSE
+2014-03-14 16:40:00	"4"	"Rum And Butter"	FALSE
+2014-03-14 16:40:00	"4"	"Don Poli"	FALSE
+2014-03-14 16:40:00	"4"	"Caid Du Berlais"	FALSE
+2014-03-14 16:40:00	"4"	"Local Hero"	FALSE
+2014-03-14 16:40:00	"4"	"Une Artiste"	FALSE
+2014-03-14 16:40:00	"4"	"Carlito Brigante"	FALSE
+2014-03-14 16:40:00	"4"	"Ruacana"	FALSE
+2014-03-14 16:40:00	"4"	"The Skyfarmer"	FALSE
+2014-03-14 16:40:00	"4"	"Vieux Lion Rouge"	FALSE
+2014-03-14 16:40:00	"4"	"Dolatulo"	FALSE
+2014-03-14 16:40:00	"4"	"Princely Player"	FALSE
+2014-03-14 16:40:00	"4"	"Shantou Magic"	FALSE
+2014-03-14 16:40:00	"4"	"Junction Fourteen"	FALSE
+2014-03-14 16:40:00	"4"	"Hazy Tom"	FALSE
+2014-03-14 16:40:00	"4"	"Full Shift"	FALSE
+2014-03-14 16:40:00	"4"	"Leo Luna"	FALSE
+2014-03-14 16:40:00	"4"	"Open Day"	FALSE
+2014-03-14 16:40:00	"4"	"Urbain De Sivola"	FALSE
+2014-03-14 16:40:00	"4"	"Thomas Crapper"	FALSE
+2014-03-14 16:40:00	"4"	"The Disengager"	FALSE
+2014-03-14 16:40:00	"4"	"Art Professor"	FALSE
+2014-03-14 16:40:00	"4"	"Royal Regatta"	FALSE
+2014-03-14 16:40:00	"4"	"One Lucky Lady"	FALSE
+2014-03-14 17:15:00	"4"	"French Opera"	FALSE
+2014-03-14 17:15:00	"4"	"Oiseau De Nuit"	FALSE
+2014-03-14 17:15:00	"4"	"Raya Star"	FALSE
+2014-03-14 17:15:00	"4"	"Easter Meteor"	FALSE
+2014-03-14 17:15:00	"4"	"Mr Mole"	FALSE
+2014-03-14 17:15:00	"4"	"Savello"	FALSE
+2014-03-14 17:15:00	"4"	"Eastlake"	FALSE
+2014-03-14 17:15:00	"4"	"Drumshambo"	FALSE
+2014-03-14 17:15:00	"4"	"Viva Colonia"	FALSE
+2014-03-14 17:15:00	"4"	"Tanks For That"	FALSE
+2014-03-14 17:15:00	"4"	"Astracad"	FALSE
+2014-03-14 17:15:00	"4"	"Next Sensation"	FALSE
+2014-03-14 17:15:00	"4"	"Claret Cloak"	FALSE
+2014-03-14 17:15:00	"4"	"Oscar Hill"	FALSE
+2014-03-14 17:15:00	"4"	"His Excellency"	FALSE
+2014-03-14 17:15:00	"4"	"Dare Me"	FALSE
+2014-03-14 17:15:00	"4"	"Lancetto"	FALSE
+2014-03-14 17:15:00	"4"	"Competitive Edge"	FALSE
+2014-03-14 17:15:00	"4"	"Anquetta"	FALSE
+2014-03-14 17:15:00	"4"	"Passage Vendome"	FALSE
+2014-03-14 17:15:00	"4"	"Ned Buntline"	FALSE
+2014-03-14 17:15:00	"4"	"Changing The Guard"	FALSE
+2014-03-14 17:15:00	"4"	"Shooters Wood"	FALSE
+2014-03-14 17:15:00	"4"	"Lucky Landing"	FALSE

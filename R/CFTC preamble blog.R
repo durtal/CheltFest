@@ -6,7 +6,8 @@ options(stringsAsFactors=FALSE)
 library(plyr); library(ggplot2); library(reshape); library(stringr)
 
 # source homemade functions
-source("functions for twitter.R", chdir = TRUE)
+source("../R/functions for twitter.R", chdir = TRUE)
+source("../R/secondary functions.R", chdir = TRUE)
 
 # create new dataframe which makes life easier with tweets from all 4days
 alltweets <- list(day1=day1, day2=day2, day3=day3, day4=day4)
@@ -39,7 +40,7 @@ ggplot(allsummary) +
 ###############################################################################
 ### CLEAN TWEETS and USER DESCRIPTIONS
 # read in the terms from the initial search
-initialsearch <- scan("https://raw.githubusercontent.com/durtal/CheltFest/master/Data/initial%20twitter%20search.txt", what="character")
+initialsearch <- scan("initial twitter search.txt", what="character")
 
 # use tweetcleaner function on tweets, loop through the initialsearch to concatenate
 alltweets$tweet <- tweetcleaner(alltweets$tweet, initialsearch, 
